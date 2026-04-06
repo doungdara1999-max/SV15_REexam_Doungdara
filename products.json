@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Americano",
+    "price": 2.5,
+    "image": "https://placehold.co/400x300?text=Americano"
+  },
+  {
+    "id": 2,
+    "title": "Latte",
+    "price": 3.25,
+    "image": "https://placehold.co/400x300?text=Latte"
+  },
+  {
+    "id": 3,
+    "title": "Croissant",
+    "price": 2.75,
+    "image": "https://placehold.co/400x300?text=Croissant"
+  },
+  {
+    "id": 4,
+    "title": "Cheesecake",
+    "price": 4.5,
+    "image": "https://placehold.co/400x300?text=Cheesecake"
+  }
+]
